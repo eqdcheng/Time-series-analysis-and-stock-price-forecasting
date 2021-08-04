@@ -1,6 +1,6 @@
 ## Time series analysis and AMZN stock price forecasting
 
-I learn and explore packages like Keras (tf), statsmodels (AMIRA), and Prophet. 
+I explore popular packages including Keras (tf), statsmodels (AMIRA), and Prophet. 
 
 - First, I visualize the dataset, and then compare different models for price predictions. 
 - ARIMA: The Autoregressive integrated moving average model preformed the best fit, using previous data to predict the next timestep. 
