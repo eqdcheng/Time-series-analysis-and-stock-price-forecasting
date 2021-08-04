@@ -1,4 +1,4 @@
-## My time series analysis and AMZN stock price forecasting
+## Time series analysis and AMZN stock price forecasting
 
 I learn and explore packages like Keras (tf), statsmodels (AMIRA), and Prophet. 
 
