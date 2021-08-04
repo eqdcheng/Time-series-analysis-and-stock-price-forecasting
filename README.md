@@ -8,4 +8,4 @@ I learn and explore packages like Keras (tf), statsmodels (AMIRA), and Prophet.
 - Prophet is Facebook’s new timeseries analysis tool, and it has no train/test split. It takes all the data and predicts the next X number of days. 
 
 
-*Tools used: Pandas, seaborn, numpy, matplotlib, tensorflow, keras,  lag_plot, statsmodels, sklearn
+*Tools used: Pandas, seaborn, numpy, matplotlib, tensorflow, keras,  lag_plot, statsmodels, sklearn*
